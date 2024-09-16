@@ -1,5 +1,5 @@
 # Hey there!, I’m Luz! 👋
-#### I'm a full-stack developer with a strong focus on backend development
+# I'm a full-stack developer with a strong focus on backend development
 
 <!--
 **britomluz/britomluz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
